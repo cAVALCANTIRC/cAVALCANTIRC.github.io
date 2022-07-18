@@ -4,7 +4,12 @@ body{
 }
 
 img{
+    text-align: justify;
     width="200px";
+}
+
+p{
+    width: 75%;
 }
 
 h1{
@@ -17,4 +22,5 @@ h2{
     
     text-align: justify;
     text-indent: 0.5cm;
+    width: 75%;
 }
