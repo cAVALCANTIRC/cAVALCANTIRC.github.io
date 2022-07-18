@@ -3,6 +3,10 @@ body{
     font-family: fantasy;
 }
 
+img{
+    width="200px";
+}
+
 h1{
     color: rgb(53, 53, 224);
 }
