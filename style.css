@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(128, 128, 128, 0.452);
+    font-family: fantasy;
+}
+
+img{
+    text-align: justify;
+    width="200px";
+}
+
+p{
+    width: 75%;
+}
+
+h1{
+    color: rgb(53, 53, 224);
+}
+h2{
+    color: rgb(53, 53, 224);
+}
+#sobreMim{
+    
+    text-align: justify;
+    text-indent: 0.5cm;
+    width: 75%;
+}
